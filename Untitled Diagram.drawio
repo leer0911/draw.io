@@ -1,1 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T09:48:33.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5s-WaFujClOUTMeRvMS1" version="16.2.4" type="github"><diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">7Vtbc5s4FP41fmyGm7g85ubdmW53MuPMbPuogGzYYkSFfNtfv5KRbECKS2Mw1En8EHQQIH3f+Y6OhJjY98vtHwTm8RccoXRiGdF2Yj9MLMvyTZf945ZdaTHtwC8tC5JEwnY0zJL/kDAawrpKIlTUKlKMU5rkdWOIswyFtGaDhOBNvdocp/Wn5nCBFMMshKlq/SeJaFxafWAc7X+iZBHLJ5uGOLOEsrIwFDGM8KZish8n9j3BmJZHy+09Sjl6EpfyuukrZw8NIyijbS6IPkcz+PXR8WeLp5c4hMuZ9fmTLRq3hulK9Fi0lu4kBJs4oWiWw5CXN4zniX0X02XKSiY7LCjB39E9TjFhlgxn6GCUiPFq8yRNZaWJZc8B/3E7zqig3XRYWbQHEYq2r/bUPODHPA/hJaJkx6rICwKnvEQ4neuJXm6ODJqGB0pjXKHPluxB4TaLw82PyLIDAe6vAG2+A6CB0RZo0+0NaOsagfbrQNt2a6Cd3oC2FaD/ZvFfAbsCrA73Boq30+n0dsrxjmHOqy23Cz603EASxgkLqsi+gXmeJiGkCc5YRVZ63u2rZvzxzMBrClPxY8VA1pDC6WD3SG/TZMHu8kBx3g1VdmDUqPJNoFDl+IaOKdAXU45CCorYKCeKKH3Bm8ej4Y7gVRahSJC2P82OJWJNrUByANbg1bPolo+7rPyS4vB7aZomvMkPokK1/r+I0p0wwBXFzIQJjfECZzD9C3NaNKJknuIb/KehNoJFfGh92XPe3dN8MnTwioToFIyCH9bjBaInKjqG3kMISpnTrust6Z5toAmAbko5MsmaHS7oHpfS9EKaFvbQSr3ZrqBoqbnBDM/phmtLe9kFogBFIZPTHf8nxb4rZpt+ArDj1AOw72oCsKNRdX/jnPsh6i5E7bUVNRhU1F6Xoj5xaZHDTK99dovqyTeEhPcQKFx/dIHCHyZQ4Bxll48TjCay+8qfdmMBWf7WfdyQFP48bgSDxo3gg3zZmW1CxTkXiPK3fdkwPFF+QiRhwCMiWjyIw3hnOsz+UkYE3FUq5DjJaFG58xM3VBIcOU1urJkcna+849EVD017u3c66urTDJF1El5iFlmIJ/WTL0rhSTh9zTAANMMA6GsYcEwF0yuOBF0Kt+20D9hDCDcw6p7mGZcQrrqmdsXOVBlWTowqnhvURxVLjjJ9jiqtnfOVeNWvc/oN53TBJZzT/nDOpnM6rj9i5zw7R36Tc7pBwzmtSzjnQGuxAznnMecGZt0BDWtMDjhIzg38IaKjujx8JTm3640u5x5ojfb3z7nbrsoC50zhnsevuir7BUerVJWS1ESIlznO9njcQfHqMWRFHv2aggqCOftjdiajKGGVGm+ke5CQbdUlBEyNhHzNa2a/Nwm9q9XLLiUUtJXQoC82ZDOvRkJAvqoZjYTk8PYhoV+UEJAbDn8qIXdICclmXo2EPNe8AWMT0bta8epSRHZbEZ07BzuPX3U32+8tosAdWyoHHAXi6SoL99v4zpt6cnCD4PTU87VNg3PWhEl90+BBu72k2I7bCG62bouAbp7q9bVBEKhrAgzdFL5gAgemJ9y3Y9JyV2cX+RtwxsePq/BzW8HLMh7XvHfDsYTWIg5eSkVeY61nBBypawFPBIeoKAbkJWctuCQtgT/C4OYrxDyjMM4Ywoudwg3rO21mZ5qvAaocCZOSAzS3mC+TKNrnhlrSe/howGqkAJ6cKVS4sHR70azeUgB1tl8LZO+IDOAMTYar7r65WxVJpgtZV8UEaIwd8jXMcEz0uDentnF6hBu7J91NNV0xRx/5WwPZzFNfqPWQIoQUk34UZZkNQQF1zNcN+UFfQ76rTuafE6qZy4uw1jaWVVipwGg5sixubJ6Kcko87IAACe5hC5gm5Qo0BLzh20BWPH6yXL6TPn75bT/+Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-09T10:47:11.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-kbfRXWVEUMr5ABnaflr" version="16.2.4" type="github">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="规范">
+    <mxGraphModel dx="1183" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-72" value="" style="whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontSize=14;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="184" y="620" width="766" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="184" y="280" width="166" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-4" target="ky_WHSMBgwkvsi_FG5FQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-4" value="需求评审" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="217" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-8" target="ky_WHSMBgwkvsi_FG5FQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-8" value="设计评审" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="217" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-10" target="ky_WHSMBgwkvsi_FG5FQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-10" value="技术评审" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="217" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-12" value="测试用例评审" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="217" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-14" value="文档规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="212" y="644" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-16" value="设计规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="212" y="694" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-17" value="测试规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="212" y="744" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-18" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="166" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-20" target="ky_WHSMBgwkvsi_FG5FQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-20" value="创建项目" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-22" target="ky_WHSMBgwkvsi_FG5FQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-22" value="功能开发" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-24" target="ky_WHSMBgwkvsi_FG5FQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-24" value="接口联调" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-25" value="自测" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-26" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="166" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-28" target="ky_WHSMBgwkvsi_FG5FQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-28" value="冒烟测试" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="613" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-30" target="ky_WHSMBgwkvsi_FG5FQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-30" value="完整测试" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="613" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-32" target="ky_WHSMBgwkvsi_FG5FQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-32" value="正式测试" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="613" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-33" value="Bug 验证" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="613" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-34" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="280" width="166" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-36" target="ky_WHSMBgwkvsi_FG5FQ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-36" value="产品验收" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="813" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-38" target="ky_WHSMBgwkvsi_FG5FQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-38" value="上线" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="813" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="ky_WHSMBgwkvsi_FG5FQ-40" target="ky_WHSMBgwkvsi_FG5FQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-40" value="线上监控" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="813" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-41" value="项目复盘" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="813" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-49" value="需求阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="222" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-50" value="开发阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="418" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-57" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;strokeColor=#d79b00;fillColor=#ffe6cc;arrowWidth=0.3125;arrowSize=0.046917808219178084;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="730" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-63" value="提测阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="618" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-64" value="项目规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="413" y="644" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-65" value="开发规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="413" y="694" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-66" value="接口规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="413" y="744" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-67" value="发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="838" y="300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-68" value="提测规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="612" y="644" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-70" value="Bug 跟踪规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="612" y="694" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-71" value="提测规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="612" y="744" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-73" value="验收规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="810" y="644" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-74" value="上线规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="810" y="695" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ky_WHSMBgwkvsi_FG5FQ-75" value="监控规范" style="html=1;whiteSpace=wrap;fillColor=#ffff88;appType=func;archiType=rounded;fontSize=14;container=0;direction=east;rounded=1;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="810" y="744" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
